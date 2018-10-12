@@ -19,5 +19,7 @@ def get_scores():
       return avg_score
 
 print(get_scores())
+input()
+print("press enter to enter")
 
     
